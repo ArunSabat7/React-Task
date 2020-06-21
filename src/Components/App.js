@@ -9,7 +9,7 @@ import Header from "./Header";
 const App = () => {
   return (
     <TaskListContextProvider>
-      <div className="container">
+      <div className="container-fluid">
         <div className="app-wrapper">
           <Header />
           <div className="main">

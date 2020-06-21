@@ -3,7 +3,7 @@
     padding: 0;
   }
   
-  .container {
+  .container-fluid {
     background: linear-gradient(100deg, rgb(182, 149, 40) 50%, #ac8b20 0);
     width: 100%;
     height: 100vh;
