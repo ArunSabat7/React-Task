@@ -16,7 +16,7 @@ const App = () => {
             <TaskForm />
             <TaskList />
           </div>
-        </div>
+        </div> 
       </div>
     </TaskListContextProvider>
   );
